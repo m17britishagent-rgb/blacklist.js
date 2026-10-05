@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api",
+      "dest": "/api/blacklist.js"
+    },
+    {
+      "src": "/",
+      "dest": "/api/blacklist.js"
+    }
+  ]
+}
