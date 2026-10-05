@@ -1,0 +1,9 @@
+{
+  "name": "roblox-blacklist-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/blacklist.js",
+  "scripts": {
+    "start": "node api/index.js"
+  }
+}
